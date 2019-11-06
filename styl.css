@@ -1,0 +1,10 @@
+.nadpis{
+    color: red;
+    font-weight: bold;
+    font-size: 250%;
+}
+.podnadpis{
+    color: green;
+    font-style: italic;
+    font-size: 150%;
+}
